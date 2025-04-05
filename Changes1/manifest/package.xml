@@ -1,0 +1,23 @@
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>ObjectX__c</members>
+<name>CustomObject</name>
+</types>
+<types>
+<members>ObjectXHandler</members>
+<name>ApexClass</name>
+</types>
+<types>
+<members>ObjectXHandlerTest</members>
+<name>ApexClass</name>
+</types>
+<types>
+<members>ObjectXTrigger</members>
+<name>ApexTrigger</name>
+</types>
+<types>
+<members>ObjectX__c-ObjectX Layout</members>
+<name>Layout</name>
+</types>
+<version>63.0</version>
+</Package>
